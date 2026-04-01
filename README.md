@@ -79,7 +79,7 @@ YT-Video-Chatbot-RAG/
 
 ### 🎥 Demo Video
 
-[▶️ Watch Demo](examples/Yt_Chatbot.gif)
+![▶️ Watch Demo](examples/Yt_Chatbot.gif)
 
 ---
 
@@ -89,8 +89,8 @@ YT-Video-Chatbot-RAG/
 https://www.youtube.com/watch?v=9QXCkMTbrSk
 
 <p align="center">
-  <img src="examples/Video1_1.png" width="45%" />
-  <img src="examples/Video1_2.png" width="45%" />
+  <img src="examples/Video1_1.png" width="100%" />
+  <img src="examples/Video1_2.png" width="100%" />
 </p>
 
 ---
@@ -101,8 +101,8 @@ https://www.youtube.com/watch?v=9QXCkMTbrSk
 https://www.youtube.com/watch?v=xAt1xcC6qfM
 
 <p align="center">
-  <img src="examples/Video2_1.png" width="45%" />
-  <img src="examples/Video2_2.png" width="45%" />
+  <img src="examples/Video2_1.png" width="100%" />
+  <img src="examples/Video2_2.png" width="100%" />
 </p>
 
 ---
