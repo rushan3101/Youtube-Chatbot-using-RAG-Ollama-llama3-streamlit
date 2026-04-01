@@ -1,0 +1,7 @@
+langchain
+langchain-core
+langchain-ollama
+langchain-chroma
+youtube-transcript-api
+streamlit
+chromadb
